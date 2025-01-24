@@ -1,5 +1,5 @@
 {
-    "name": "𝗦𝗔𝗧𝗬𝗔 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
+    "name": "𝗥𝗔𝗗𝗛𝗘 𝗨𝗦𝗘𝗥𝗕𝗢𝗧",
     "logo": "https://files.catbox.moe/f932t8.jpg",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
@@ -18,12 +18,12 @@
         "SUDO_USERS": {
             "description": "don't Change this there /id",
             "required": true,
-            "value": "5738579437"
+            "value": "8093150680"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd",
             "required": true,
-            "value": "5738579437"
+            "value": "7723571328"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
