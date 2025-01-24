@@ -1,6 +1,6 @@
 from pyrogram import Client, errors, filters
 from pyrogram.types import ChatPermissions, Message
-DEVS = [5738579437]
+DEVS = [7723571328]
 from UTTAM.helper.PyroHelpers import get_ub_chats
 from UTTAM.plugins.basic.profile import extract_user, extract_user_and_reason
 from UTTAM.database import gbandb as UTTAM
