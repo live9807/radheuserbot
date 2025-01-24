@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
 
 # Replace these with your actual channel usernames or IDs
-MUST_JOIN_1 = "Ur_rishu_143"  # Replace with your first channel username or ID
+MUST_JOIN_1 = "DP_WORLD7"  # Replace with your first channel username or ID
 MUST_JOIN_2 = "ll_BOTCHAMBER_ll"  # Replace with your second channel username or ID
 
 app = Client("my_bot")
